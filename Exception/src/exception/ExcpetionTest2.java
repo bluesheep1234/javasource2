@@ -11,6 +11,8 @@ public class ExcpetionTest2 {
 		int value2 = Integer.parseInt(data2);
 		
 		System.out.println(value1);
+		System.out.println("------------------------------"); //구분선추가 
+		
 		System.out.println(value2);
 	}
 
