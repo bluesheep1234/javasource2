@@ -10,7 +10,7 @@ public class ExcpetionTest2 {
 		int value1 = Integer.parseInt(data1);
 		int value2 = Integer.parseInt(data2);
 		
-		System.out.println(value1 + value2);
+		System.out.println(value1);
 	}
 
 }
